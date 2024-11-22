@@ -1,7 +1,7 @@
 # Landing page Mybike
 
 ## Demo Link
-You can view the live version of the project [here](https://vikshiyan.github.io/My-bike-landing/).
+You can view the live version of the project [here](https://vikshiyan.github.io/landing_page_mybike/).
 
 ## Description
 This is a responsive one-page website created using modern web technologies like HTML and CSS (SASS). It showcases a clean and minimalist design that is developed using Pixel Perfect standards, ensuring a precise match with the design provided in Figma.
