@@ -3,10 +3,11 @@
 ## Demo Link
 You can view the live version of the project [here](https://vikshiyan.github.io/My-bike-landing/).
 
+## Description
 This is a responsive one-page website created using modern web technologies like HTML and CSS (SASS). It showcases a clean and minimalist design that is developed using Pixel Perfect standards, ensuring a precise match with the design provided in Figma.
 
 ## Design
-The original design for this project can be found on [Figma](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&node-type=canvas&t=duaJrx5YcR5LM9E0-0)
+The original design for this project can be found on [Figma](https://www.figma.com/design/NZQAIydtHo5QkINyGLHNcq/BIKE-New-Version?node-id=0-1&node-type=canvas&t=duaJrx5YcR5LM9E0-0).
 
 
 ## Key features include:
